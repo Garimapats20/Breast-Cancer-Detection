@@ -4,10 +4,6 @@
 
 ![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
 
-#### YouTube link to see the working: https://youtu.be/ntSBQy5JriQ
-
-#### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
-
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
@@ -31,7 +27,6 @@ Attribute Information:
 Using SVM (Support Vector Machines) we build and train a model using human cell records, and classify cells to predict whether the samples are benign or malignant.
 ### 4.Flask Creation
 Python app.py
-http://127.0.0.1:5000/
 
 1.	Breast_Cancer_Detection.ipynb — This contains code for the machine learning model to predict cancer based on the class.
 2.	app.py — This contains Flask APIs that receives cells details through GUI or API calls, computes the predicted value based on our model and returns it
