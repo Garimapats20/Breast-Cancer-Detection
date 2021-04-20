@@ -2,8 +2,6 @@
 
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
-
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
